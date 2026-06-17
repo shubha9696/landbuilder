@@ -4,7 +4,10 @@ Dear Vidya,
 
 Thank you for shortlisting my profile for the Full Stack Engineer role. I am excited about this opportunity and have completed the Take-Home Buildable Land Analysis assignment.
 
-I have attached my work and resume to this email. You can find the repository and setup instructions below.
+### Deployed Links
+- **Vercel Live Application**: https://asr-nine.vercel.app
+- **GitHub Repository**: https://github.com/shubha9696/landbuilder
+- **Vercel API Endpoint**: https://asr-nine.vercel.app/api/parcels
 
 ### Submission Information
 - **Full Name**: [Insert Your Full Name]
