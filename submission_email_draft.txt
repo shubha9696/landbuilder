@@ -1,4 +1,4 @@
-Subject: ZEG India Full Stack Engineer Assignment Submission - [Your Name]
+Subject: ZEG India Full Stack Engineer Assignment Submission - Shubham Chakrawarti
 
 Dear Vidya,
 
@@ -10,16 +10,16 @@ Thank you for shortlisting my profile for the Full Stack Engineer role. I am exc
 - **Vercel API Endpoint**: https://asr-nine.vercel.app/api/parcels
 
 ### Submission Information
-- **Full Name**: [Insert Your Full Name]
-- **Email ID**: [Insert Your Email]
-- **Highest Education**: [e.g., Bachelor of Technology in Computer Science, University of Texas]
-- **Total Work Experience (excluding internships)**: [e.g., 3 Years]
-- **Current Company**: [Insert Current Company / Freelancer]
-- **Job Status**: [Full-time / Part-time / Unemployed]
+- **Full Name**: Shubham Chakrawarti
+- **Email ID**: shubham2005.hc@gmail.com
+- **Highest Education**: B.Tech, Computer Science & Engineering (Artificial Intelligence) - Parul University (GPA: 7.8/10)
+- **Total Work Experience (excluding internships)**: 4 Months (Software Engineer at Deloitte & Data Analyst at JPMorgan Chase)
+- **Current Company**: Freelancer / Self-Employed
+- **Job Status**: Full-time Freelance
 - **Current CTC**: [Insert Current CTC]
 - **Expected CTC**: [Insert Expected CTC]
-- **Joining Time Required**: [e.g., Immediate / 30 Days]
-- **Interested in**: [Freelancing / Contractual / Full-time - Mention all that apply]
+- **Joining Time Required**: Immediate
+- **Interested in**: Full-time / Contractual / Freelance
 
 ### Project Repository Overview
 The repository contains a full-stack geographic application built using:
@@ -33,6 +33,6 @@ Please let me know if you have any questions or require any modifications. I loo
 
 Best regards,
 
-[Your Name]
-[Your Phone Number]
-[Your LinkedIn Profile]
+Shubham Chakrawarti
++91-9696137126
+shubham2005.hc@gmail.com

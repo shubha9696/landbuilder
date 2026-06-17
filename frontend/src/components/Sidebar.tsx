@@ -239,6 +239,12 @@ const Sidebar: React.FC<SidebarProps> = ({
 
       </div>
 
+      {/* Developer Credits */}
+      <div className="px-6 py-3 border-t border-white/5 bg-white/[0.01] text-[10px] text-gray-500 flex justify-between items-center">
+        <span>Designed & Developed by</span>
+        <span className="font-semibold text-cyan-400">Shubham Chakrawarti</span>
+      </div>
+
       {/* Footer / Autograder Verification Status */}
       <div className="p-4 border-t border-white/5 bg-white/[0.02] flex items-center justify-between text-[11px] text-gray-400">
         <div className="flex items-center gap-1.5">
