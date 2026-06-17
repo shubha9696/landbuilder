@@ -55,9 +55,9 @@ const ParcelSelector: React.FC<ParcelSelectorProps> = ({
               <div
                 key={p.id}
                 onClick={() => onSelectParcel(p.id)}
-                className={`p-4 rounded-xl border transition-all duration-300 cursor-pointer ${
+                className={`p-4 rounded-xl border hover-card-interactive cursor-pointer ${
                   isSelected
-                    ? 'bg-cyan-500/10 border-cyan-400/50 shadow-md shadow-cyan-400/5'
+                    ? 'bg-cyan-500/10 border-cyan-400/50 selected-glow shadow-md shadow-cyan-400/5'
                     : 'bg-white/[0.02] border-white/5 hover:bg-white/5 hover:border-white/10'
                 }`}
               >

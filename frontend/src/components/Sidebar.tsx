@@ -245,8 +245,8 @@ const Sidebar: React.FC<SidebarProps> = ({
           <ShieldAlert className="w-3.5 h-3.5 text-cyan-400" />
           <span>Grading key status:</span>
         </div>
-        <div className="flex items-center gap-1 text-emerald-400 font-semibold">
-          <CheckCircle className="w-3 h-3" />
+        <div className="flex items-center text-emerald-400 font-semibold pulse-badge pr-3">
+          <CheckCircle className="w-3 h-3 mr-1" />
           <span>HELIOS-4827 ACTIVE</span>
         </div>
       </div>
