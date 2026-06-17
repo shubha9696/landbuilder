@@ -126,6 +126,7 @@ def compute_raw_acres(geom) -> float:
     return geom.area / 4046.8564224
 
 @app.get("/api/parcels")
+@app.get("/parcels")
 def get_parcels():
     # Return basic info about parcels
     result = []
@@ -147,6 +148,7 @@ def get_parcels():
     return result
 
 @app.post("/api/analyze")
+@app.post("/analyze")
 def analyze_parcel(req: AnalyzeRequest):
     if req.parcel_id not in PARCELS_DATA:
         raise HTTPException(status_code=404, detail=f"Parcel {req.parcel_id} not found.")
