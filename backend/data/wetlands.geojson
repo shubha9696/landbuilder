@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "WETLAND_TY": "Freshwater Forested/Shrub Wetland",
+        "SYSTEM": "Palustrine",
+        "description": "Meandering creek bed wetland area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -97.704,
+              30.247
+            ],
+            [
+              -97.702,
+              30.244
+            ],
+            [
+              -97.697,
+              30.241
+            ],
+            [
+              -97.694,
+              30.24
+            ],
+            [
+              -97.694,
+              30.238
+            ],
+            [
+              -97.696,
+              30.239
+            ],
+            [
+              -97.699,
+              30.241
+            ],
+            [
+              -97.703,
+              30.243
+            ],
+            [
+              -97.705,
+              30.246
+            ],
+            [
+              -97.704,
+              30.247
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WETLAND_TY": "Freshwater Pond",
+        "SYSTEM": "Palustrine",
+        "description": "Isolated depression wetland / stock pond"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -97.695,
+              30.242
+            ],
+            [
+              -97.694,
+              30.242
+            ],
+            [
+              -97.694,
+              30.241
+            ],
+            [
+              -97.695,
+              30.241
+            ],
+            [
+              -97.695,
+              30.242
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "parcel_101",
+      "properties": {
+        "prop_id": "parcel_101",
+        "site_addr_1": "9400 River Road, Austin, TX 78725",
+        "py_owner_n": "RIVER BEND VENTURES LLC",
+        "description": "Large agricultural and creek-adjacent tract with significant wetlands."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -97.705,
+              30.245
+            ],
+            [
+              -97.7,
+              30.246
+            ],
+            [
+              -97.698,
+              30.242
+            ],
+            [
+              -97.699,
+              30.238
+            ],
+            [
+              -97.706,
+              30.24
+            ],
+            [
+              -97.705,
+              30.245
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_102",
+      "properties": {
+        "prop_id": "parcel_102",
+        "site_addr_1": "9502 Colorado Bend, Austin, TX 78725",
+        "py_owner_n": "AUSTIN ECO-DEVELOPMENT INC",
+        "description": "Commercial-zoned parcel containing existing structures and partial flood zone."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -97.698,
+              30.242
+            ],
+            [
+              -97.693,
+              30.243
+            ],
+            [
+              -97.692,
+              30.239
+            ],
+            [
+              -97.697,
+              30.237
+            ],
+            [
+              -97.698,
+              30.242
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_103",
+      "properties": {
+        "prop_id": "parcel_103",
+        "site_addr_1": "1200 Walnut Creek Way, Austin, TX 78725",
+        "py_owner_n": "WALNUT CREEK HOLDINGS",
+        "description": "Linear parcel running along the eastern boundary, perfect for conservation easements."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -97.7,
+              30.246
+            ],
+            [
+              -97.695,
+              30.247
+            ],
+            [
+              -97.693,
+              30.243
+            ],
+            [
+              -97.698,
+              30.242
+            ],
+            [
+              -97.7,
+              30.246
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_104",
+      "properties": {
+        "prop_id": "parcel_104",
+        "site_addr_1": "9105 Blue Lagoon Dr, Austin, TX 78725",
+        "py_owner_n": "SARA & DAVID MILLER",
+        "description": "Smaller residential acreage parcel with a large domestic building."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -97.706,
+              30.24
+            ],
+            [
+              -97.699,
+              30.238
+            ],
+            [
+              -97.7,
+              30.235
+            ],
+            [
+              -97.707,
+              30.236
+            ],
+            [
+              -97.706,
+              30.24
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

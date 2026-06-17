@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "building": "residential",
+        "height": 8.5,
+        "description": "Main residential estate house"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -97.704,
+              30.238
+            ],
+            [
+              -97.703,
+              30.238
+            ],
+            [
+              -97.703,
+              30.237
+            ],
+            [
+              -97.704,
+              30.237
+            ],
+            [
+              -97.704,
+              30.238
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building": "commercial",
+        "height": 12.0,
+        "description": "Industrial warehouse building"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -97.695,
+              30.239
+            ],
+            [
+              -97.693,
+              30.239
+            ],
+            [
+              -97.693,
+              30.238
+            ],
+            [
+              -97.695,
+              30.238
+            ],
+            [
+              -97.695,
+              30.239
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building": "barn",
+        "height": 6.0,
+        "description": "Agricultural storage barn"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -97.703,
+              30.244
+            ],
+            [
+              -97.702,
+              30.244
+            ],
+            [
+              -97.702,
+              30.243
+            ],
+            [
+              -97.703,
+              30.243
+            ],
+            [
+              -97.703,
+              30.244
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

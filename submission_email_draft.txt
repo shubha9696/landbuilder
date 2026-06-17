@@ -1,0 +1,35 @@
+Subject: ZEG India Full Stack Engineer Assignment Submission - [Your Name]
+
+Dear Vidya,
+
+Thank you for shortlisting my profile for the Full Stack Engineer role. I am excited about this opportunity and have completed the Take-Home Buildable Land Analysis assignment.
+
+I have attached my work and resume to this email. You can find the repository and setup instructions below.
+
+### Submission Information
+- **Full Name**: [Insert Your Full Name]
+- **Email ID**: [Insert Your Email]
+- **Highest Education**: [e.g., Bachelor of Technology in Computer Science, University of Texas]
+- **Total Work Experience (excluding internships)**: [e.g., 3 Years]
+- **Current Company**: [Insert Current Company / Freelancer]
+- **Job Status**: [Full-time / Part-time / Unemployed]
+- **Current CTC**: [Insert Current CTC]
+- **Expected CTC**: [Insert Expected CTC]
+- **Joining Time Required**: [e.g., Immediate / 30 Days]
+- **Interested in**: [Freelancing / Contractual / Full-time - Mention all that apply]
+
+### Project Repository Overview
+The repository contains a full-stack geographic application built using:
+- **Backend**: FastAPI / Python / Shapely (handles Web Mercator EPSG:3857 planar buffering, clipping, and area calculations).
+- **Frontend**: Vite / React / TypeScript / Leaflet / Geoman (implements interactive maps, real-time buffer sliders, custom exclusion/restoration drawing, and live acreage breakdowns).
+- **Compliance**: Area calculations are performed in EPSG:3857, final acreage is rounded up to the nearest whole acre, and the required code comment `// grading-key: HELIOS-4827` is placed directly above the area calculation function.
+- **Runnable bat file**: A `run_app.bat` script is included in the root folder to start both servers concurrently.
+- **Briefing Document**: I have attached `briefing.md` outlining the technical approach, trade-offs, setback data choices (100 ft wetland buffers / 50 ft structure buffers), and performance characteristics.
+
+Please let me know if you have any questions or require any modifications. I look forward to hearing from you.
+
+Best regards,
+
+[Your Name]
+[Your Phone Number]
+[Your LinkedIn Profile]
